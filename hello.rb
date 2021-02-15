@@ -1,6 +1,6 @@
 # Lesson 1: Outputting a String
 
-puts "What is your name?"
+puts 'What is your name?'
 
 # Lesson 2: Prompting User Input
 
