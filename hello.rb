@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Lesson 1: Outputting a String
 
 puts 'What is your name?'

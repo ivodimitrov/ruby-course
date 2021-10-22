@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Lesson 3: Prompt for Favorite Color
 
 puts 'What is your favorite color?'
